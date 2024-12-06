@@ -23,21 +23,7 @@ A tool to calculate Body Mass Index (BMI) based on weight and height. It provide
 
 Demonstrates basic Python concepts such as user input, mathematical operations, and conditional statements.
 
-## 3. **Simple Password Generator**
-A tool to generate strong, random passwords using a mix of uppercase letters, lowercase letters, digits, and special characters. Users can specify the length of the password.
-
-Uses Python's `random` module to generate secure passwords.
-
-## 4. **Weather App**
-A weather application that fetches real-time weather data using the OpenWeatherMap API. It displays:
-- Temperature (Celsius and Fahrenheit)
-- Humidity
-- Wind speed
-- Weather conditions
-
-Integrates `requests` for API data fetching and `tkinter` for creating a graphical user interface.
-
-## 5. **Browser-Based Chat Application**
+## 3. **Browser-Based Chat Application**
 A real-time chat application built using Flask and WebSockets. Features include:
 - Instant messaging
 - Room-based communication
